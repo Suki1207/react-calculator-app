@@ -11,7 +11,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://github.com/Suki1207/react-calculator-app.git",
+  "homepage": "https://Suki1207.github.io/react-calculator-app",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
